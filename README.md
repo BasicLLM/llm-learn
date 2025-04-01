@@ -1,7 +1,7 @@
 # LLM Learning Pipeline 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub stars](https://img.shields.io/github/stars/zmdo/llm-learn?style=social)
+![GitHub stars](https://img.shields.io/github/stars/BasicLLM/llm-learn?style=social)
 
 一个模块化的大模型学习工程化实践项目，从零实现 transformer 核心组件到复现经典大模型架构。
 
@@ -24,7 +24,7 @@
 由于 Github 中的 ipynb 文件展示时无法正确加载图片，这里推荐读者通过 clone 到本地的方式进行阅读实践：
 
 ```bash
-git clone https://github.com/zmdo/llm-learn.git
+git clone https://github.com/BasicLLM/llm-learn.git
 ```
 
 ## 许可协议 📜
