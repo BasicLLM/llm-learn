@@ -21,11 +21,24 @@
 
 ## 快速开始 🚀
 
-由于有时 Github 中的 ipynb 文件展示时存在无法正确加载图片的情况，这里推荐读者通过 clone 到本地的方式进行阅读实践：
+【温馨提示】为确保最佳学习体验，建议您通过本地环境运行代码笔记：
+
+克隆代码仓库（推荐使用国内镜像源加速）：
 
 ```bash
 git clone https://github.com/BasicLLM/llm-learn.git
 ```
+
+启动Jupyter Notebook：
+
+```bash
+jupyter notebook
+```
+
+若遇GitHub在线预览的图片加载问题，这是因平台对*.ipynb文件的动态渲染限制所致。本地运行还可获得以下优势：
+- 实时执行和修改代码
+- 完整保留可视化输出
+- 支持自定义调试
 
 ## 许可协议 📜
 
