@@ -21,7 +21,7 @@
 
 ## 快速开始 🚀
 
-由于 Github 中的 ipynb 文件展示时无法正确加载图片，这里推荐读者通过 clone 到本地的方式进行阅读实践：
+由于有时 Github 中的 ipynb 文件展示时存在无法正确加载图片的情况，这里推荐读者通过 clone 到本地的方式进行阅读实践：
 
 ```bash
 git clone https://github.com/BasicLLM/llm-learn.git
