@@ -1,0 +1,6 @@
+.idea
+
+# Transformer 训练过程文件
+2_Transformer-OPT/results
+2_Transformer-OPT/model
+2_Transformer-OPT/logs

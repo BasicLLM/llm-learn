@@ -1,0 +1,41 @@
+{
+    "bos_token": "<bos>",
+    "eos_token": "<eos>",
+    "unk_token": "<unk>",
+    "pad_token": "<pad>",
+    "tokenizer_class": "PreTrainedTokenizerFast",
+    "added_tokens_decoder": {
+        "0": {
+            "content": "<unk>",
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "single_word": false,
+            "special": true
+        },
+        "1": {
+            "content": "<pad>",
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "single_word": false,
+            "special": true
+        },
+        "2": {
+            "content": "<bos>",
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "single_word": false,
+            "special": true
+        },
+        "3": {
+            "content": "<eos>",
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "single_word": false,
+            "special": true
+        }
+    }
+}
